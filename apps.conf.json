@@ -1,28 +1,22 @@
 {
   "apps": [
     {
-      "name": "programmusic",
-      "title": "ProgramMusic",
-      "name_zh": "ProgramMusic",
-      "url": "https://musicforprogramming.net/"
+      "name": "zeabur",
+      "title": "Zeabur",
+      "name_zh": "Zeabur",
+      "url": "https://dash.zeabur.com/projects"
     },
     {
-      "name": "twitter",
-      "title": "Twitter",
-      "name_zh": "推特",
-      "url": "https://twitter.com/"
+      "name": "sqlchat",
+      "title": "SQLChat",
+      "name_zh": "SQLChat",
+      "url": "https://www.sqlchat.ai/"
     },
     {
       "name": "flomo",
       "title": "Flomo",
       "name_zh": "浮墨",
       "url": "https://v.flomoapp.com/mine"
-    },
-    {
-      "name": "qwerty",
-      "title": "Qwerty",
-      "name_zh": "Qwerty",
-      "url": "https://qwerty.kaiyi.cool/"
     }
   ]
 }
